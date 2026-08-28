@@ -3,15 +3,6 @@ An Extension that adds features to the Evaluatie App of school Lab Sint-Niklaas.
 <a name="details-sectie"></a>
 ## Extra Informatie
 
-<details>
-<summary>▶ Klik hier om de tekst uit te klappen</summary>
-
-### Gefeliciteerd!
-Je hebt het menu succesvol uitgeklapt. 
-
-Hier kun je nu van alles neerzetten:
-* Een lijstje met extra punten
-* **Dikgedrukte tekst** voor nadruk
-* Of gewoon een lange lap tekst die je eerst wilde verbergen
-
-</details>
+<blockquote>
+  ⚠️ <b>Let op:</b> Vergeet niet om je API-sleutels te verbergen voor je dit project pusht!
+</blockquote>
