@@ -56,7 +56,7 @@ A: Extensions@Lab does not collect, upload, sell or share student grade data. **
 
 ## Screenshots
 
-###Screenshots will be added further down the line in production.
+### Screenshots will be added further down the line in production.
 
 ## Feedback
 
