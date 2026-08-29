@@ -34,6 +34,7 @@ A: No. The extension only adds features to how you view and interact with the pl
 <blockquote>
 It does NOT change official grades
 </blockquote>
+
 #### Q: Does it work with my school?
 
 A: Currently the extension only works with Lab Sint-Niklaas. 
