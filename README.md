@@ -27,6 +27,7 @@ A: Yes, **definitely**. I always love to hear feedback, or any features you migh
 <a name="details-sectie"></a>
 <details>
 <summary>Click here to see more FAQ questions.</summary>
+  
 #### Q: Does it change my actual grades?
 
 A: No. The extension only adds features to how you view and interact with the platform.
