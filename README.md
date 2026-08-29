@@ -55,6 +55,7 @@ A: None of the data is collected sent or harvested in any way shape or form.
 
 #### Q: 
 </details>
+
 ## Feedback
 
 If you have any feedback, please reach out to me at decaluweotto@gmail.com
