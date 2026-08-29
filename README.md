@@ -1,15 +1,11 @@
-
 # Extensions@Lab
 
-This project is a Chrome Extension aimed to improve upon the grading program used at Lab Sint-Niklaas also known as the "Evaluatie App". The extension helps students see a more clear view over their grades and understand it all better.
-
+Extensions@Lab is an open-source Chrome extension made to enhance Lab Sint-Niklaas's existing "Evaluatie App". It adds additional features and improvments
 
 ## Features
 
-- Light/dark mode toggle
-- Different Themes
-- Features are being added
-- Request features! See [FAQ](#FAQ)
+Most features are actively being added.
+
 ## FAQ
 
 #### Q: Is it free?
@@ -18,15 +14,15 @@ A: Yes. The Extension is free and will **always** remain free. Though contributi
 
 #### Q: What is [Extensions@Lab](#Extensions@Lab)?
 
-A: Extensions@Lab is an open source browser extension adding usefull features to the existing grading system of Lab Sint-Niklaas.
+A: Extensions@Lab is an open source browser extension adding useful features to the existing grading system of Lab Sint-Niklaas.
 
 #### Q: What does it do?
 
-A: The extension provides usefull features such as grade predictions, assignment organization, progress charts, and many more that previously were unavailable.
+A: The Extension is actively being developed and new features are being added. 
 
-#### Q: Can I request features ?
+#### Q: Can I request features?
 
-A: Yes, **definitely**. I always love to here feedback, or any features you might request. Reach me at decaluweotto@gmail.com
+A: Yes, **definitely**. I always love to hear feedback, or any features you might request. Reach me at decaluweotto@gmail.com
 
 <a name="details-sectie"></a>
 <details>
@@ -41,20 +37,25 @@ It does NOT change official grades
 
 A: Currently the extension only works with Lab Sint-Niklaas. 
 
-#### Q: Does it store my grades.
+#### Q: Does it store my grades?
 
-A: No. Grade information gets processed locally in your browser and is **Not sent to my servers**.
-
-#### Q: Can teachers see im using it?
-
-A: Since the extension is purely visual, nothing actually gets changed.
+A: No. Grade information gets processed locally in your browser and is **Not sent to any servers**.
 
 #### Q: Is my information safe?
 
-A: None of the data is collected sent or harvested in any way shape or form.
-
-#### Q: 
+A: Extensions@Lab does not collect, upload, sell or share student grade data. **All** data is processed locally in your browser.
 </details>
+
+
+##Roadmap
+
+### V1
+  - ...
+  - Features are being added.
+
+## Screenshots
+
+###Screenshots will be added further down the line in production.
 
 ## Feedback
 
@@ -70,7 +71,10 @@ See `contributing.md` for ways to get started.
 
 ## Tech Stack
 
-**Client:** JavaScript, C Sharp Sharp, JSON, HTML
+- **Javascript**
+- **HTML**
+- **CSS**
+- **JSON**
 
 
 ## Authors
